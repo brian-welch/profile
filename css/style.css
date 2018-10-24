@@ -1,0 +1,15 @@
+html {
+  font-family: 'Helvetica', sans-sarif;
+  color: #333;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.1);
+  width: 80%;
+  margin: 25px auto;
+}
+
+td {
+  padding-left: 20px;
+  vertical-align: top;
+}
